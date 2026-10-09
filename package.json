@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "airtable": "^0.12.2"
+  },
+  "scripts": {
+    "test": "node --test"
   }
 }
